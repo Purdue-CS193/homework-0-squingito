@@ -1,3 +1,10 @@
+# Jerry Russo's First CS193 Homework
+
+The best things about CS-193 are:
+- It will teach us how to use the terminal, bash, and github and manipulating repositorys
+- It will help us fill in the gaps we may have in our CS knowlage to be successful in our CS Careers
+- Lastly, our awesome TAs
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
